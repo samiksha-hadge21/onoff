@@ -1,0 +1,20 @@
+body{
+  background-color: black;
+    
+  
+}
+button{
+    width: 90px;
+    height: 30px;
+   border: none;
+    background-color: black;
+   border-radius: 4px solid white;
+    color: black;
+    border-radius: 9%;
+    font-size: 20px;
+    background-color: rgb(149, 4, 4);
+    
+}
+img{
+    padding-top: 100px;
+}
